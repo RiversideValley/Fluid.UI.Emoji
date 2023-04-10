@@ -2,9 +2,9 @@
   "name": "microsoft-teams-animated-emojis",
   "version": "1.0.0",
   "description": "All the Microsoft Teams animated emojis are available in one place and ready to use in your next project or README file.",
-  "repository": "https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis",
-  "bugs": "https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/issues",
-  "homepage": "https://microsoft-teams-animated-emojis.vercel.app/",
+  "repository": "https://github.com/RiversideValley/Fluid.UI.Emoji",
+  "bugs": "https://github.com/RiversideValley/Fluid.UI.Emoji/issues",
+  "homepage": "https://emoji.theriversi.de",
   "private": true,
   "scripts": {
     "dev": "next dev",
